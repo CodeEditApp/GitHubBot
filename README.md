@@ -1,5 +1,6 @@
-# GitHubBot
-A bot to assist the GitHub workflow for CodeEdit development
+# CodeEdit GitHubBot
+
+A bot to assist the GitHub workflow for CodeEdit development.
 
 It is responsible for prepending an emoji to titles when new issues are created with the following labels.
 
