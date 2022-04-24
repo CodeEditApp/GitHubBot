@@ -1,0 +1,26 @@
+{
+  "name": "githubbot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CodeEditApp Bot",
+  "scripts": {
+    "start": "probot run ./app.js",
+    "test": "node test.js"
+  },
+  "author": "Nanashi Li",
+  "license": "ISC",
+  "repository": "https://github.com/CodeEditApp/GitHubBot",
+  "dependencies": {
+    "probot": "^12.2.2"
+  },
+  "devDependencies": {
+    "nock": "^13.2.4",
+    "smee-client": "^1.2.2",
+    "uvu": "^0.5.3"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ]
+  }
+}
