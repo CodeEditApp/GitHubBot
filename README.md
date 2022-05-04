@@ -8,7 +8,8 @@ It is responsible for prepending an emoji to titles when new issues are created 
 | - | - | - |
 | 🐞 | bug | A defect in the code that needs to be fixed |
 | ✨ | enhancement | Planned feature representing work |
-| 💡 | feature request | Proposed feature representing idea  |
+| 🧹 | chore | Work that is necessary but provides no direct or obvious value to the user |
+| 💡 | feature request | Proposed feature representing idea |
 | 💬 | discussion | A conversation to arrive to a decision about something |
 | ❓ | question | A question about how we should proceed |
 | 🚩 | priority | Work that needs urgent attention. This replaces other emoji except for urgent if priority label is present |
