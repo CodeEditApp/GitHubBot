@@ -15,3 +15,4 @@ It is responsible for prepending an emoji to titles when new issues are created 
 | 🚩 | priority | Work that needs urgent attention. This replaces other emoji except for urgent if priority label is present |
 | 📬 | feedback | Only add emoji if no other label above is present |
 | 🚨 | urgent | Work that needs urgent attention. This replaces all others emoji if urgent label is present |
+| 👀 | tracking | Issue that tracks other issues. |
